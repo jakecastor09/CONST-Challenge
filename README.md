@@ -1,2 +1,2 @@
 # CONST-Challenge
-el-nido.netlify.app
+https://el-nido.netlify.app/
